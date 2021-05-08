@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Florent</h1>
+<h1 align="center">Bonjour 👋, I'm Florent</h1>
 <h3 align="center">A ReactJs and NodeJs Web-Developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florentlem&label=Profile%20views&color=0e75b6&style=flat" alt="florentlem" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, OpenAPI, Arduino, Python**
+- 🌱 Currently learning **MongoDB, OpenAPI, Arduino, Python**
 
 - 💬 Ask me about **React, Redux, Redux-Saga, Mapbox, NodeJs**
 
-- 📫 How to reach me **florentlempro@gmail.com**
+- 📫 Reach me with **florentlempro@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/florentlem-21/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADJozlwBZIIPWIRnEcaVKhCydntJfNMVJDg,1606165121837)/)
+- 📄 Learn more about my experiences [here](https://www.linkedin.com/in/florentlem-21/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADJozlwBZIIPWIRnEcaVKhCydntJfNMVJDg,1606165121837)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
