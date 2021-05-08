@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **florentlempro@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/florentlem-21/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADJozlwBZIIPWIRnEcaVKhCydntJfNMVJDg,1606165121837)/](https://www.linkedin.com/in/florentlem-21/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADJozlwBZIIPWIRnEcaVKhCydntJfNMVJDg,1606165121837)/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/florentlem-21/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADJozlwBZIIPWIRnEcaVKhCydntJfNMVJDg,1606165121837)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
