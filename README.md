@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/florentlem-21"  target="_blank" rel="noopener noreferrer">https://linktr.ee/florentlem</a>
+<a href="https://linktr.ee/florentlem"  target="_blank" rel="noopener noreferrer">https://linktr.ee/florentlem</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
