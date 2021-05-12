@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/florentlem-21"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.mareauxoiseaux.fr/wp-content/uploads/2019/04/logo-linkedin.png" alt="florentlem-21" height="40" width="40" /></a>
-<a href="https://instagram.com/fl_lem"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" alt="fl_lem" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/florentlem-21"  target="_blank" rel="noopener noreferrer">https://linktr.ee/florentlem</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
