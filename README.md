@@ -1,7 +1,7 @@
-<h1 align="center">Bonjour 👋</h1>
-<h3 align="center">A ReactJs and NodeJs Web-Developper</h3>
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">A Fullstack Javascript and Typescript Developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=florentlem&label=Profile%20views&color=0e75b6&style=flat" alt="florentlem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wild-oyster&label=Profile%20views&color=0e75b6&style=flat" alt="wild-oyster" /> </p>
 
 - 🌱 Currently learning **MongoDB, NextJs**
 
