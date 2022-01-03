@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wild-oyster&label=Profile%20views&color=0e75b6&style=flat" alt="wild-oyster" /> </p>
 
-- 🌱 Currently learning **MongoDB, NextJs, C++, Unreal Engine**
-
 - 💬 Ask me about **React, Redux, Mapbox, Typescript**
 
 <h3 align="left">Languages and Tools:</h3>
